@@ -1,6 +1,9 @@
 .vscode/
 .env
 env/
+venv/
+app.db
 __pycache__
 config.py
 *.pyc
+.stignore
