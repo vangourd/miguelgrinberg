@@ -3,6 +3,7 @@
 env/
 venv/
 app.db
+logs/
 __pycache__
 config.py
 *.pyc
